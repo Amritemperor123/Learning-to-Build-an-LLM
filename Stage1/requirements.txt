@@ -1,0 +1,4 @@
+re
+python-docx
+PyPDF2
+tiktoken
